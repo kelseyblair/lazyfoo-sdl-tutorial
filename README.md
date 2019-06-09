@@ -1,0 +1,1 @@
+[LazyFoo's Tutorial](http://lazyfoo.net/tutorials/SDL/) which I highly recommend!
